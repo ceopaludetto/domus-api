@@ -1,0 +1,27 @@
+D O M U S
+
+//--**--//
+
+1.Condominio: true,
+2.Morador: true,
+2.Auth: true,
+3.Logger: true, - Automático
+4.Bloco: true, - Sindico
+5.Apartamento: true, - Sindico
+6.Locais: true, - Sindico
+7.Despesa: true, - Sindico
+8.Funcionario: true, - Sindico
+9.Visita: true,
+10.Reservas: true,
+11.Comunicados: true, - Sindico
+12.Assitencia: true, - Sindico
+13.Imposto: true - Sindico
+14.Post: true
+15.Seguidores: true
+16.Votacao: true - Sindico
+
+Mensagens: true
+
+//--**--//
+
+Vagas

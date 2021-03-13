@@ -1,0 +1,8 @@
+{
+    "database": "TCC",
+    "username": "SA",
+    "password": "R7soltaosuave",
+    "host": "192.168.1.35",
+    "port": 1433,
+    "dialect": "mssql"
+}

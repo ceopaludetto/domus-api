@@ -1,0 +1,116 @@
+{
+    "CONDOMINIO": {
+        "TABLE_NAME": "Condomínio",
+        "TABLE_NAME_PLURAL": "Condomínios",
+        "TABLE_NUMBER": 1,
+        "TABLE_FEMALE": false
+    },
+    "MORADOR": {
+        "TABLE_NAME": "Morador",
+        "TABLE_NAME_PLURAL": "Moradores",
+        "TABLE_NUMBER": 2,
+        "TABLE_FEMALE": false
+    },
+    "LOGGER": {
+        "TABLE_NAME": "Log",
+        "TABLE_NAME_PLURAL": "Logs",
+        "TABLE_NUMBER": 3,
+        "TABLE_FEMALE": false
+    },
+    "BLOCO": {
+        "TABLE_NAME": "Bloco",
+        "TABLE_NAME_PLURAL": "Blocos",
+        "TABLE_NUMBER": 4,
+        "TABLE_FEMALE": false
+    },
+    "APARTAMENTO": {
+        "TABLE_NAME": "Apartamento",
+        "TABLE_NAME_PLURAL": "Apartamentos",
+        "TABLE_NUMBER": 5,
+        "TABLE_FEMALE": false
+    },
+    "LOCAIS": {
+        "TABLE_NAME": "Local",
+        "TABLE_NAME_PLURAL": "Locais",
+        "TABLE_NUMBER": 6,
+        "TABLE_FEMALE": false
+    },
+    "DESPESA": {
+        "TABLE_NAME": "Despesa",
+        "TABLE_NAME_PLURAL": "Despesas",
+        "TABLE_NUMBER": 7,
+        "TABLE_FEMALE": true
+    },
+    "FUNCIONARIO": {
+        "TABLE_NAME": "Funcionário",
+        "TABLE_NAME_PLURAL": "Funcionários",
+        "TABLE_NUMBER": 8,
+        "TABLE_FEMALE": false
+    },
+    "VISITA": {
+        "TABLE_NAME": "Visita",
+        "TABLE_NAME_PLURAL": "Visitas",
+        "TABLE_NUMBER": 9,
+        "TABLE_FEMALE": true
+    },
+    "RESERVAS": {
+        "TABLE_NAME": "Reserva",
+        "TABLE_NAME_PLURAL": "Reservas",
+        "TABLE_NUMBER": 10,
+        "TABLE_FEMALE": true
+    },
+    "COMUNICADOS": {
+        "TABLE_NAME": "Comunicado",
+        "TABLE_NAME_PLURAL": "Comunicados",
+        "TABLE_NUMBER": 11,
+        "TABLE_FEMALE": false
+    },
+    "ASSISTENCIA": {
+        "TABLE_NAME": "Assistência",
+        "TABLE_NAME_PLURAL": "Assistências",
+        "TABLE_NUMBER": 12,
+        "TABLE_FEMALE": true
+    },
+    "IMPOSTO": {
+        "TABLE_NAME": "Imposto",
+        "TABLE_NAME_PLURAL": "Impostos",
+        "TABLE_NUMBER": 13,
+        "TABLE_FEMALE": false
+    },
+    "POST": {
+        "TABLE_NAME": "Post",
+        "TABLE_NAME_PLURAL": "Posts",
+        "TABLE_NUMBER": 14,
+        "TABLE_FEMALE": false
+    },
+    "SEGUIDORES": {
+        "TABLE_NAME": "Seguidor",
+        "TABLE_NAME_PLURAL": "Seguidores",
+        "TABLE_NUMBER": 15,
+        "TABLE_FEMALE": false
+    },
+    "CONTATO": {
+        "TABLE_NAME": "Contato",
+        "TABLE_NAME_PLURAL": "Contatos",
+        "TABLE_NUMBER": 16,
+        "TABLE_FEMALE": false
+    },
+    "VOTACAO": {
+        "TABLE_NAME": "Votacão",
+        "TABLE_NAME_PLURAL": "Votações",
+        "TABLE_NUMBER": 17,
+        "TABLE_FEMALE": true
+    },
+    "REGRAS": {
+        "TABLE_NAME": "Regra",
+        "TABLE_NAME_PLURAL": "Regras",
+        "TABLE_NUMBER": 18,
+        "TABLE_FEMALE": true
+    },
+    "VOTO": {
+        "TABLE_NAME": "Voto",
+        "TABLE_NAME_PLURAL": "Votos",
+        "TABLE_NUMBER": 19,
+        "TABLE_FEMALE": false
+    }
+}
